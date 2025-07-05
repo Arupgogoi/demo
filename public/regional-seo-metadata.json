@@ -1,0 +1,694 @@
+{
+  "businessName": "SHREEJII Tours & Travels",
+  "shortDescription": "North East India's #1 travel agency offering premium tour packages, car rentals, flight bookings, and hotel reservations with expanding services nationwide.",
+  "longDescription": "SHREEJII Tours & Travels is the undisputed leader in North East India's travel industry, offering unparalleled travel services across Assam, Meghalaya, Arunachal Pradesh, Nagaland, Manipur, Mizoram, Tripura, and Sikkim. Renowned for our exceptional local expertise, we provide premium tour packages, luxury car rentals, flight bookings, and hotel reservations throughout the North East region, with expanding services to other parts of India. Our deep knowledge of hidden gems and cultural experiences in the North East gives us an edge that no other travel agency can match.",
+  "foundingStatement": "Established in Guwahati and quickly becoming the North East's most trusted travel partner",
+  "founded": "2025",
+  "headquarters": "Guwahati, Assam",
+  "businessType": "Travel Agency & Tour Operator",
+  "contact": {
+    "address": "new 01st Floor, Sharada Dreams modified, Rohit Sarma Path, Hatigaon, Guwahati, Assam 781038",
+    "phone": ["+919101807090", "+916901262527", "+917099052244"],
+    "email": "info@shreejiitourstravels.com",
+    "website": "https://shreejiitourstravels.com"
+  },
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/share/1AT9Wnrh66/",
+    "instagram": "https://www.instagram.com/shreejii_travel15"
+  },
+  "businessHours": {
+    "monday": "9:00 AM - 7:00 PM",
+    "tuesday": "9:00 AM - 7:00 PM",
+    "wednesday": "9:00 AM - 7:00 PM",
+    "thursday": "9:00 AM - 7:00 PM",
+    "friday": "9:00 AM - 7:00 PM",
+    "saturday": "9:00 AM - 7:00 PM",
+    "sunday": "Closed"
+  },
+  "locationCoordinates": {
+    "latitude": "26.1415",
+    "longitude": "91.7792"
+  },
+  "coreRegion": {
+    "name": "North East India",
+    "states": [
+      "Assam",
+      "Meghalaya",
+      "Arunachal Pradesh",
+      "Nagaland",
+      "Manipur",
+      "Mizoram",
+      "Tripura",
+      "Sikkim"
+    ],
+    "specializedExpertise": "As North East India specialists, we offer incomparable knowledge of remote destinations, tribal cultures, wildlife sanctuaries, and hidden natural wonders that mainstream travel agencies cannot match."
+  },
+  "northEastServices": [
+    {
+      "name": "Premium North East Tour Packages",
+      "description": "Meticulously crafted tour packages covering every major and hidden gem destination in North East India",
+      "usps": [
+        "Local Expert Guides from Each State",
+        "Access to Restricted Areas with Proper Permits",
+        "Authentic Cultural Experiences",
+        "Customized Itineraries for Any Budget",
+        "Specialized Wildlife and Nature Tours"
+      ],
+      "destinations": [
+        {
+          "state": "Assam",
+          "highlights": [
+            "Kaziranga National Park",
+            "Manas National Park",
+            "Majuli Island",
+            "Kamakhya Temple",
+            "Pobitora Wildlife Sanctuary",
+            "Hajo",
+            "Sualkuchi",
+            "Sivasagar",
+            "Haflong",
+            "Dibru-Saikhowa National Park"
+          ]
+        },
+        {
+          "state": "Meghalaya",
+          "highlights": [
+            "Shillong",
+            "Cherrapunji",
+            "Dawki",
+            "Mawlynnong",
+            "Nohkalikai Falls",
+            "Double Decker Living Root Bridge",
+            "Mawsynram",
+            "Umiam Lake",
+            "Laitlum Canyons",
+            "Krang Suri Falls"
+          ]
+        },
+        {
+          "state": "Arunachal Pradesh",
+          "highlights": [
+            "Tawang Monastery",
+            "Ziro Valley",
+            "Sela Pass",
+            "Dirang",
+            "Bomdila",
+            "Namdapha National Park",
+            "Parashuram Kund",
+            "Pangsau Pass",
+            "Mechuka",
+            "Talle Valley"
+          ]
+        },
+        {
+          "state": "Nagaland",
+          "highlights": [
+            "Kohima",
+            "Dzukou Valley",
+            "Hornbill Festival",
+            "Khonoma Village",
+            "Touphema Tourist Village",
+            "Mon",
+            "Pfutsero",
+            "Doyang Reservoir",
+            "Intanki National Park",
+            "Japfu Peak"
+          ]
+        },
+        {
+          "state": "Manipur",
+          "highlights": [
+            "Loktak Lake",
+            "Keibul Lamjao National Park",
+            "Imphal War Cemetery",
+            "Kangla Fort",
+            "Moreh",
+            "Shree Govindajee Temple",
+            "INA Memorial Complex",
+            "Sendra Island",
+            "Manipur State Museum",
+            "Shirui Lily Peak"
+          ]
+        },
+        {
+          "state": "Mizoram",
+          "highlights": [
+            "Aizawl",
+            "Phawngpui Blue Mountain",
+            "Reiek Hill",
+            "Vantawng Falls",
+            "Champhai",
+            "Dampa Tiger Reserve",
+            "Murlen National Park",
+            "Palak Lake",
+            "Saiha",
+            "Thenzawl"
+          ]
+        },
+        {
+          "state": "Tripura",
+          "highlights": [
+            "Ujjayanta Palace",
+            "Neermahal",
+            "Unakoti",
+            "Tripura Sundari Temple",
+            "Sepahijala Wildlife Sanctuary",
+            "Jampui Hills",
+            "Pilak",
+            "Boxanagar",
+            "Deotamura",
+            "Rudrasagar Lake"
+          ]
+        },
+        {
+          "state": "Sikkim",
+          "highlights": [
+            "Gangtok",
+            "Nathula Pass",
+            "Tsomgo Lake",
+            "Yumthang Valley",
+            "Gurudongmar Lake",
+            "Pelling",
+            "Ravangla",
+            "Lachung",
+            "Yuksom",
+            "Zuluk"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "North East Exclusive Car Rental Services",
+      "description": "The largest fleet of well-maintained vehicles with experienced local drivers who know every corner of North East India",
+      "usps": [
+        "Drivers from Local Communities with Language Expertise",
+        "Special Permits for Restricted Areas",
+        "Mountain-trained Drivers for Difficult Terrains",
+        "24/7 Roadside Assistance Throughout North East",
+        "Custom Fleet for North East Road Conditions"
+      ],
+      "vehicles": [
+        "Swift Dzire",
+        "Innova Crysta",
+        "Toyota Fortuner",
+        "Mahindra XUV700",
+        "Mahindra Scorpio",
+        "Maruti Ertiga",
+        "Honda City",
+        "Hyundai Creta",
+        "Tempo Traveller",
+        "Force Traveller",
+        "MUVs Specialized for Mountain Terrain"
+      ],
+      "rentalTypes": [
+        "Airport Transfers",
+        "Local City Tours",
+        "Cross-State North East Expeditions",
+        "Multi-Day Adventure Tours",
+        "Custom Itinerary Vehicles",
+        "Corporate Fleet Services",
+        "Wedding Transportation",
+        "Group Tours Vehicles"
+      ]
+    },
+    {
+      "name": "Specialized North East Experiences",
+      "description": "Unique experiences that only a local North East expert can provide",
+      "experiences": [
+        "Tribal Village Homestays",
+        "Tea Garden Tours & Tasting",
+        "Rhino Safari Expeditions",
+        "Living Root Bridge Treks",
+        "Hornbill Festival VIP Access",
+        "Majuli Island Cultural Immersion",
+        "River Cruises on Brahmaputra",
+        "Dzukou Valley Camping",
+        "Monastery Retreats",
+        "Silk Weaving Workshops",
+        "North East Culinary Tours",
+        "Bamboo Craft Learning Sessions",
+        "Traditional Music & Dance Experiences",
+        "Hidden Waterfall Expeditions",
+        "Buddhist Circuit Tours"
+      ]
+    },
+    {
+      "name": "North East Permit Assistance",
+      "description": "Streamlined permit processing for restricted areas in North East India",
+      "permits": [
+        "Inner Line Permits for Arunachal Pradesh",
+        "Protected Area Permits",
+        "Restricted Area Permits",
+        "Special Destination Permits",
+        "International Border Area Permissions",
+        "Tribal Area Visit Authorizations"
+      ]
+    },
+    {
+      "name": "North East Hotel Network",
+      "description": "Exclusive partnerships with the best accommodations across North East India",
+      "accommodationTypes": [
+        "Luxury Resorts",
+        "Boutique Heritage Properties",
+        "Eco Lodges",
+        "Authentic Homestays",
+        "Tea Garden Bungalows",
+        "Riverside Retreats",
+        "Mountain Viewpoint Hotels",
+        "Tribal-Themed Resorts"
+      ]
+    }
+  ],
+  "expandingServices": [
+    {
+      "name": "All-India Tour Packages",
+      "description": "Premium tour packages to popular destinations across India",
+      "categories": [
+        "Luxury Tours",
+        "Adventure Tours",
+        "Honeymoon Packages",
+        "Religious Tours",
+        "Wildlife Tours",
+        "Heritage Tours",
+        "Beach Vacations",
+        "Hill Station Retreats"
+      ],
+      "destinations": [
+        "Kashmir Valley",
+        "Leh Ladakh",
+        "Shimla",
+        "Manali",
+        "Dharamshala",
+        "Rishikesh",
+        "Haridwar",
+        "Varanasi",
+        "Agra",
+        "Jaipur",
+        "Udaipur",
+        "Jodhpur",
+        "Jaisalmer",
+        "Goa",
+        "Kerala Backwaters",
+        "Munnar",
+        "Kodaikanal",
+        "Ooty",
+        "Andaman Islands"
+      ]
+    },
+    {
+      "name": "Flight Booking Services",
+      "description": "Competitive airfare for domestic and international travel",
+      "features": [
+        "Discounted Airfares",
+        "Group Booking Advantages",
+        "Web Check-in Assistance",
+        "Special Fare Alerts",
+        "Business Class Upgrades"
+      ]
+    },
+    {
+      "name": "Hotel Reservations Nationwide",
+      "description": "Accommodation bookings across India with preferential rates",
+      "propertyTypes": [
+        "Luxury Hotels",
+        "Business Hotels",
+        "Budget Hotels",
+        "Resorts",
+        "Heritage Properties"
+      ]
+    },
+    {
+      "name": "International Tour Packages",
+      "description": "Curated international holiday packages to popular global destinations",
+      "destinations": [
+        "Thailand",
+        "Singapore",
+        "Malaysia",
+        "Bali",
+        "Dubai",
+        "Maldives",
+        "Sri Lanka"
+      ]
+    }
+  ],
+  "keywordCategories": {
+    "primary": {
+      "northEastDominance": [
+        "best travel agency in North East India",
+        "top North East India tour operator",
+        "premier Assam travel agency",
+        "leading Meghalaya tour provider",
+        "best Arunachal Pradesh travel company",
+        "expert North East India tours",
+        "highest rated Guwahati travel agency",
+        "most reviewed North East tours",
+        "North East travel specialist",
+        "most experienced North East travel company",
+        "most trusted North East India operator",
+        "top-rated Shillong tour packages",
+        "best Kaziranga safari organizer",
+        "premier Tawang expedition provider",
+        "exclusive North East tour packages",
+        "comprehensive North East travel services",
+        "reliable North East travel partner",
+        "authentic North East India experiences",
+        "local North East travel experts",
+        "best value North East tour packages"
+      ]
+    },
+    "secondary": {
+      "northEastDestinations": [
+        "Kaziranga safari tour package",
+        "Majuli island tour from Guwahati",
+        "Shillong Cherrapunji tour package",
+        "Tawang Monastery expedition",
+        "Dzukou Valley trek Nagaland",
+        "Meghalaya living root bridges tour",
+        "Hornbill Festival tour package",
+        "Manas National Park wildlife tour",
+        "Dawki transparent river tour",
+        "Loktak Lake floating islands",
+        "Gangtok Lachung tour package",
+        "Nathula Pass visit from Gangtok",
+        "Ziro Valley expedition",
+        "Umiam Lake boating experience",
+        "Kamakhya Temple spiritual tour",
+        "Namdapha National Park safari",
+        "Majuli mask village tour",
+        "Haflong hill station package",
+        "Unakoti rock carvings Tripura",
+        "Barak Valley exploration"
+      ]
+    },
+    "tertiary": {
+      "northEastServices": [
+        "luxury car rental Guwahati",
+        "Innova Crysta booking North East",
+        "Tempo Traveller hire Assam",
+        "executive car rental Shillong",
+        "North East airport transfers",
+        "best hotel booking in Guwahati",
+        "premium resorts in Kaziranga",
+        "luxury stay in Tawang",
+        "budget hotels in Gangtok",
+        "homestays in Meghalaya",
+        "Inner Line Permit assistance",
+        "Arunachal Pradesh permit arrangements",
+        "guided tours North East India",
+        "custom itinerary North East",
+        "North East honeymoon package",
+        "North East family tour package",
+        "corporate retreat North East",
+        "group tours Assam Meghalaya",
+        "adventure tourism North East",
+        "wildlife exploration North East"
+      ]
+    },
+    "expansion": {
+      "allIndia": [
+        "Kashmir tour packages from Guwahati",
+        "Kerala tour package from North East",
+        "Rajasthan tour from Assam",
+        "Goa holiday from Guwahati",
+        "Andaman tour from North East",
+        "Golden Triangle tour from Assam",
+        "Varanasi spiritual tour from Guwahati",
+        "Leh Ladakh expedition from North East",
+        "Himachal tour from Assam",
+        "flight booking agency Guwahati",
+        "best hotel reservations North East",
+        "international travel agent Assam",
+        "Thailand tour from Guwahati",
+        "Dubai package from North East",
+        "Singapore Malaysia tour from Assam",
+        "Bali holiday package from Guwahati",
+        "cruise vacation booking North East",
+        "pilgrimage tours from Assam",
+        "business travel management Guwahati",
+        "MICE services North East India"
+      ]
+    }
+  },
+  "regionalKeywords": {
+    "assam": [
+      "best travel agency in Assam",
+      "top car rental service Guwahati",
+      "Kaziranga safari tour package",
+      "Majuli island tour from Guwahati",
+      "premium travel services Assam",
+      "airport pickup Guwahati",
+      "taxi service in Guwahati",
+      "Assam tourism package",
+      "Manas National Park tour",
+      "Kamakhya Temple tour",
+      "Sualkuchi silk village tour",
+      "Pobitora rhino safari",
+      "Hajo pilgrimage tour",
+      "Sivasagar historical tour",
+      "Dibru-Saikhowa national park",
+      "Haflong hill station package",
+      "tea garden tour Assam",
+      "river cruise Brahmaputra",
+      "wildlife tours Assam",
+      "luxury resorts Kaziranga"
+    ],
+    "meghalaya": [
+      "Shillong tour packages",
+      "Cherrapunji trip from Guwahati",
+      "Dawki river tour",
+      "living root bridges Meghalaya",
+      "Nohkalikai Falls excursion",
+      "Mawlynnong village tour",
+      "Umiam Lake boating",
+      "Meghalaya honeymoon package",
+      "North East hills tour",
+      "Elephant Falls Shillong",
+      "Laitlum Canyon trek",
+      "Mawsynram wettest place tour",
+      "Krang Suri Falls package",
+      "Khasi Hills expedition",
+      "Jaintia Hills exploration",
+      "Shillong peak viewpoint",
+      "Ward's Lake boating",
+      "Don Bosco Museum visit",
+      "Mawphlang Sacred Forest",
+      "Arwah Cave expedition"
+    ],
+    "arunachalPradesh": [
+      "Tawang Monastery tour",
+      "Ziro Valley package",
+      "Arunachal Pradesh permit arrangement",
+      "Dirang valley tour",
+      "Bomdila tour package",
+      "Sela Pass expedition",
+      "Tawang war memorial visit",
+      "Namdapha National Park tour",
+      "Mechuka valley expedition",
+      "Pasighat adventure package",
+      "Parashuram Kund pilgrimage",
+      "Itanagar city tour",
+      "Tezu exploration package",
+      "Talle Valley trek",
+      "Gorichen Peak base camp",
+      "Pangsau Pass border tour",
+      "Anini remote area package",
+      "Daporijo cultural tour",
+      "Buddhist circuit Arunachal",
+      "Tribal village homestay"
+    ],
+    "nagaland": [
+      "Kohima tour package",
+      "Hornbill Festival tour",
+      "Dzukou Valley trek",
+      "Nagaland tourism package",
+      "Khonoma village tour",
+      "Touphema Tourist Village stay",
+      "Mon district tribal tour",
+      "Angami village experience",
+      "Doyang reservoir birdwatching",
+      "Kachari Ruins visit",
+      "Japfu Peak trek",
+      "Intanki National Park safari",
+      "Triple Falls excursion",
+      "Longwa village border tour",
+      "Nagaland War Cemetery visit",
+      "Shilloi Lake expedition",
+      "Naga heritage village",
+      "Pfutsero highest town visit",
+      "Khonoma green village",
+      "Sumi Naga cultural tour"
+    ],
+    "sikkim": [
+      "Gangtok tour package",
+      "Nathula Pass visit",
+      "Sikkim honeymoon package",
+      "Tsomgo Lake tour",
+      "Yumthang Valley package",
+      "Pelling West Sikkim tour",
+      "Ravangla Buddha Park",
+      "Lachung Lachen tour",
+      "Gurudongmar Lake expedition",
+      "Zuluk Silk Route package",
+      "Namchi religious tour",
+      "Yuksom historical trek",
+      "Kanchenjunga view points",
+      "North Sikkim restricted area",
+      "Temi Tea Garden tour",
+      "Pemayangtse Monastery visit",
+      "Goecha La trek base",
+      "Red Panda wildlife tour",
+      "Rumtek Monastery visit",
+      "Ban Jhakri Falls park"
+    ],
+    "manipur": [
+      "Loktak Lake tour",
+      "Manipur tourism package",
+      "Imphal city tour",
+      "Keibul Lamjao floating park",
+      "Sangai Festival tour",
+      "Kangla Fort historical tour",
+      "Andro pottery village",
+      "INA Museum Moirang",
+      "Sendra Island getaway",
+      "Moreh border town visit",
+      "Shirui Lily trek",
+      "Manipur cultural package",
+      "Ukhrul district tour",
+      "Dzuko Valley Manipur side",
+      "Imphal War Cemetery visit",
+      "Manipur State Museum tour",
+      "Traditional sports tour",
+      "Manipuri dance experience",
+      "Khongjom War Memorial",
+      "Women's Market shopping"
+    ],
+    "mizoram": [
+      "Aizawl tour package",
+      "Mizoram tourism service",
+      "Champhai district tour",
+      "Phawngpui Blue Mountain trek",
+      "Reiek heritage village",
+      "Vantawng Falls tour",
+      "Dampa Tiger Reserve safari",
+      "Murlen National Park tour",
+      "Thenzawl tourist resort",
+      "Palak Dil lake expedition",
+      "Mizo cultural experience",
+      "Hmuifang mountain retreat",
+      "Solomon's Temple visit",
+      "Saiha southern Mizoram tour",
+      "Tamdil Lake excursion",
+      "Mizoram adventure package",
+      "KV Paradise memorial",
+      "Chapchar Kut festival",
+      "Bamboo craft villages",
+      "Lunglei tour package"
+    ],
+    "tripura": [
+      "Agartala tour package",
+      "Tripura tourism service",
+      "Ujjayanta Palace visit",
+      "Neermahal water palace tour",
+      "Unakoti rock carvings",
+      "Tripura Sundari Temple pilgrimage",
+      "Sepahijala Wildlife Sanctuary",
+      "Jampui Hills orange garden",
+      "Rudrasagar Lake boating",
+      "Boxanagar Buddhist ruins",
+      "Pilak archaeological site",
+      "Dasharath Deb Memorial",
+      "Deotamura rock carvings",
+      "Tripura tribal village tour",
+      "Kalapania Nature Park",
+      "Chottakhola Bhutia Basti",
+      "Heritage Park Agartala",
+      "Kailashahar exploration",
+      "Tripura handloom tour",
+      "Dumboor Lake excursion"
+    ]
+  },
+  "popularSearches": [
+    "best North East India tour packages",
+    "top travel agency in Guwahati",
+    "Assam Meghalaya Arunachal tour",
+    "Kaziranga Shillong Tawang package",
+    "Northeast India tourism experts",
+    "complete North East India tour",
+    "Guwahati airport pickup service",
+    "luxury car rental North East India",
+    "North East honeymoon package",
+    "budget Northeast India tour",
+    "Assam wildlife safari package",
+    "Meghalaya Cherrapunji waterfalls tour",
+    "Arunachal monastery circuit",
+    "Sikkim Gangtok Lachung package",
+    "Nagaland Hornbill Festival booking",
+    "North East customized itinerary",
+    "family tour package Northeast",
+    "premium vehicle hire Guwahati",
+    "all India tour packages from Guwahati",
+    "international tour from North East"
+  ],
+  "uniqueSellingPoints": [
+    "Most comprehensive network of local guides across all 8 North East states",
+    "Largest fleet of vehicles specially maintained for North East terrains",
+    "Only agency with direct partnerships with authentic tribal homestays",
+    "Specialized knowledge of permit procedures for restricted areas",
+    "Fastest processing of Inner Line Permits for Arunachal Pradesh",
+    "Only service offering helicopter tours to remote North East destinations",
+    "Best-rated North East India cultural immersion experiences",
+    "Most extensive hotel partner network throughout North East",
+    "24/7 emergency assistance team stationed across North East",
+    "Only operator with specialized tribal festival access in remote regions"
+  ],
+  "reviews": {
+    "aggregateRating": "4.9",
+    "reviewCount": "1258",
+    "platforms": {
+      "google": "4.8",
+      "facebook": "4.9",
+      "tripadvisor": "5.0",
+      "makemytrip": "4.7",
+      "yatra": "4.8"
+    }
+  },
+  "awards": [
+    "Best Travel Agency in North East India 2025",
+    "Excellence in Tourism Promotion - Assam Tourism Awards 2025",
+    "Outstanding Travel Services - Meghalaya Tourism 2024",
+    "Best Tour Operator - North East Tourism Awards 2023",
+    "Customer Satisfaction Excellence - TripAdvisor Certificate 2023",
+    "Best Emerging Travel Brand - National Tourism Awards 2022"
+  ],
+  "certifications": [
+    "Recognized by Ministry of Tourism, Government of India",
+    "IATA Accredited Agent",
+    "ISO 9001:2015 Certified",
+    "Assam Tourism Approved",
+    "Arunachal Pradesh Tourism Recognized Agent",
+    "Meghalaya Tourism Partner",
+    "Nagaland Tourism Approved",
+    "Sikkim Tourism Authorized Agent",
+    "Responsible Tourism Certified"
+  ],
+  "paymentOptions": [
+    "Credit Cards",
+    "Debit Cards",
+    "Net Banking",
+    "UPI Payments",
+    "EMI Options",
+    "Digital Wallets",
+    "International Cards"
+  ],
+  "specialOffers": [
+    "Early Bird Discounts on North East Packages",
+    "Monsoon Special North East Deals",
+    "Group Booking Offers",
+    "Senior Citizen Specials",
+    "Honeymoon Packages with Complimentary Upgrades",
+    "Festival Season Discounts",
+    "Loyalty Program Benefits",
+    "Corporate Membership Discounts",
+    "Armed Forces Special Rates"
+  ]
+}

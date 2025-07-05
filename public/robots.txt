@@ -1,0 +1,29 @@
+# SHREEJII Tours & Travels - North East India's Premier Travel Agency
+# Allow all search engines to crawl the entire site
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://shreejiitourstravels.com/sitemap.xml
+
+# Disallow any private or admin areas if needed
+# Disallow: /admin/
+# Disallow: /private/
+
+# For Google Image
+User-agent: Googlebot-Image
+Allow: /favicon_io/
+Allow: /logo.png
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.webp$
+
+# For Google Mobile
+User-agent: Googlebot-Mobile
+Allow: /
+
+# For Bing
+User-agent: bingbot
+Allow: /
