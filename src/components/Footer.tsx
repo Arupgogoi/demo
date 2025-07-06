@@ -14,7 +14,7 @@ const Footer = () => {
             <div className="space-y-2">
               <p className="text-[#4B4B4B] text-sm flex items-start">
                 <span className="font-semibold mr-2">Address:</span>
-                <span>new 01st Floor, Sharada Dreams modified, Rohit Sarma Path, Opp Muscle Mania Gym, Near Imperial Vista, Lakhimi Nagar, Hatigaon, Guwahati, 781038</span>
+                <span> sdjasbjbasj skds;kd </span>
               </p>
             </div>
           </div>

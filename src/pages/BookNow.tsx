@@ -105,7 +105,7 @@ const BookNow = () => {
                   </div>
                   <p className="text-gray-600 mb-4 text-sm">Visit us in person for a consultation</p>
                   <address className="not-italic text-gray-700 font-medium">
-                    new 01st Floor, Sharada Dreams modified,<br />
+                   sharada,01st FloorDreams modified,<br />
                     Rohit Sarma Path, Hatigaon,<br />
                     Guwahati, 781038
                   </address>

@@ -51,7 +51,7 @@ const Contact = () => {
                 </div>
                 <div className="flex items-center mb-4 text-accent-500 flex-wrap">
                   <svg className="w-6 h-6 mr-3 text-accent-500 flex-shrink-0" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                  <span className="text-base md:text-lg text-gray-800 break-words">new 01st Floor, Sharada Dreams modified, Rohit Sarma Path, Opp Muscle Mania Gym, Near Imperial Vista, Lakhimi Nagar, Hatigaon, Guwahati, 781038</span>
+                  <span className="text-base md:text-lg text-gray-800 break-words">01st Floor,01st FloorDreams modified, Rohit Sarma Path, Opp Muscle Mania Gym, Near Imperial Vista, Lakhimi Nagar, Hatigaon, Guwahati, 781038</span>
                 </div>
               </div>
 
